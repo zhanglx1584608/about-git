@@ -1,0 +1,46 @@
+<p>十一：git的使用
+
+1、需要安装git的客户端
+一路next，最后finish即可
+
+2、在所有程序中找到git目录，找到git bash，点击执行
+字体大小，可以通过ctr+鼠标滚轮 去调整
+
+ls （list） 查看当前目录下所有的文件
+pwd (print the working directory) 显示当前目录
+
+clear 清空当前命令行窗口
+
+mkdir test --》（make directory） 创建一个叫做test的目录
+cd test01 （change directory） 进入到当前目录下test01目录
+
+git中的命令
+在windows进到test01的目录中，创建了test.txt ，写上 hello git
+
+git init 初始化 代码仓库
+git status 查看当前仓库的状态
+git add test.txt 将test.txt文档添加到代码仓库
+git commit -m "firstUpdate"
+
+准备工作：将代码仓库托管在github
+注册github账号：
+①填写用户名、邮箱、密码
+②直接continue
+③skip this step
+④start a project
+⑤邮箱激活链接
+⑥给repositoryName起个名字
+⑦直接create repository
+
+
+继续git操作：
+
+git config --global user.name  "web161111"
+git config --global user.email "web1611@vip.163.com"
+ 配置用户名和邮箱
+
+git remote add origin  https://github.com/web161111/test.git
+添加服务器的代码仓库的地址
+
+git push origin  master 将当前的代码仓库 推送到服务器端的master分支，输入github账号的用户名和密码
+</p>
