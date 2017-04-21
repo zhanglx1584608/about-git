@@ -14,9 +14,10 @@ clear 清空当前命令行窗口
 mkdir test --》（make directory） 创建一个叫做test的目录
 cd test （change directory） 进入到当前目录下test目录
 
+
 git中的命令
 在windows进到test的目录中，创建了test.txt ，写上 hello git
-
+cat test.txt---打印test.txt里面的内容
 git init 初始化 代码仓库
 git status 查看当前仓库的状态
 git add test.txt 将test.txt文档添加到代码仓库
