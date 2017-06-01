@@ -1,5 +1,4 @@
 <p>十一：git的使用
- 
 1、需要安装git的客户端
 一路next，最后finish即可
 
@@ -13,7 +12,6 @@ clear 清空当前命令行窗口
 
 mkdir test --》（make directory） 创建一个叫做test的目录
 cd test （change directory） 进入到当前目录下test目录
-
 
 git中的命令
 在windows进到test的目录中，创建了test.txt ，写上 hello git
