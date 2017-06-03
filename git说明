@@ -31,7 +31,6 @@ git commit -m "firstUpdate"
 ⑥给repositoryName起个名字
 ⑦直接create repository
 
-
 继续git操作：
 
 git config --global user.name  "web161111"
