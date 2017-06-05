@@ -40,5 +40,6 @@ git config --global user.email "web1611@vip.163.com"
 git remote add origin  https://github.com/web161111/test.git
 添加服务器的代码仓库的地址
 
+
 git push origin  master 将当前的代码仓库 推送到服务器端的master分支，输入github账号的用户名和密码
 </p>
