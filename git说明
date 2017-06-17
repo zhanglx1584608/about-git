@@ -3,15 +3,8 @@
 1、需要安装git的客户端
 一路next，最后finish即可
 
-
-
-
 2、在所有程序中找到git目录，找到git bash，点击执行
 字体大小，可以通过ctr+鼠标滚轮 去调整
-
-
-
-
 
 ls （list） 查看当前目录下所有的文件
 pwd (print the working directory) 显示当前目录
