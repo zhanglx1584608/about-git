@@ -1,14 +1,6 @@
-
-
-
-
 <p>十一：git的使用
 1、需要安装git的客户端
 一路next，最后finish即可
-
-
-
-
 2、在所有程序中找到git目录，找到git bash，点击执行
 字体大小，可以通过ctr+鼠标滚轮 去调整
 
@@ -28,6 +20,9 @@ git status 查看当前仓库的状态
 git add test.txt 将test.txt文档添加到代码仓库
 git commit -m "firstUpdate"
 
+
+
+
 准备工作：将代码仓库托管在github
 注册github账号：
 ①填写用户名、邮箱、密码
@@ -37,6 +32,10 @@ git commit -m "firstUpdate"
 ⑤邮箱激活链接
 ⑥给repositoryName起个名字
 ⑦直接create repository
+
+
+
+
 
 继续git操作：
 
