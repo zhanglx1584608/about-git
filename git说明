@@ -51,3 +51,6 @@ git remote add origin  https://github.com/web161111/test.git
 
 git push origin  master 将当前的代码仓库 推送到服务器端的master分支，输入github账号的用户名和密码
 </p>
+
+如果上传一个文件夹的话，可以直接把文件拖到想要放进去的仓库！首先是要有一个仓库！
+git GUI here 选中要上传的文件，下面勾选一下！点击上传就可以了！
